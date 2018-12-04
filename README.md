@@ -1,4 +1,5 @@
 # Git totorial
 
 - fix-B
-- ** feature-C
+- feature-C
+*my test*
